@@ -4,13 +4,8 @@
 ._DS_Store
 .DS_Store
 *.bin
-
-
-
-*.so
-./idea
-build
-
+*.html
+not-using/
 
 
 ## python 
@@ -18,5 +13,3 @@ build
 *.pyc
 
 
-# ignore html for now
-*.html
