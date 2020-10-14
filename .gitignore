@@ -6,6 +6,7 @@
 *.bin
 *.html
 not-using/
+*.txt
 
 
 ## python 
