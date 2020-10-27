@@ -1,4 +1,4 @@
-# Python Labs : Numpy
+# Python Labs: Numpy
 
 This will be our python language labs
 
