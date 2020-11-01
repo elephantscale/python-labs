@@ -7,6 +7,9 @@
 *.html
 not-using/
 *.txt
+*.gz
+*.csv
+
 
 
 ## python 
