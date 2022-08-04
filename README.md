@@ -1,4 +1,8 @@
+<link rel='stylesheet' href='assets/css/main.css'/>
+
 # Python Labs
+
+![](assets/images/Python-Symbol.png)
 
 This will be our python related labs including all language and data science topics 
 
