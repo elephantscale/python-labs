@@ -7,8 +7,6 @@ c = "hello world"
 print(a)
 print(b)
 
-print("hello " + str(a))
-
 print(a + b)
 print(a * b)
 print(a / b)

@@ -72,18 +72,6 @@ print(b)
 
 **=> TRY re-running to see the results.**
 
-Use concatenation operator as plus on strings
-
-```python
-"Hello" + c 
-```
-
-This operator requires things to be strings. If not, you can always convert it using str(variablename)
-
-```python
-print("hello" + str(a))
-```
-
 Try some arithmetic operations with your variables, like this:
 
 ```python
