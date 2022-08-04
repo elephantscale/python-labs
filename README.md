@@ -32,10 +32,8 @@ Instructor will provide access to lab environment
 * [Conditionals](languageBasics/conditionals.ipynb)
 * [Loops](languageBasics/loops.ipynb)
 * [Functions](languageBasics/functions.ipynb)
-
-
-
-* [String](languageBasics/3.5-string.md)
+* [String](languageBasics/string.ipynb)
+* 
 * [Files](languageBasics/3.6-files.md)
 * [OOP](languageBasics/7-oop.md)
 
