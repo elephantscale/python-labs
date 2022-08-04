@@ -1,9 +1,9 @@
-Lab 1.1: REPL
+REPL
 =============
 
 ## Overview
 
-This is using the python REPL. We will do this from the command line to illustrate the interactive nature of python code
+This is using the python REPL. We will do this from the command line to illustrate the interactive nature of python code.
 
 
 ## Step 1: Start python interpreter
@@ -13,7 +13,7 @@ Open an Anaconda command prompt (if you use anaconda on windows).
 Run the following from the command line:
 
 ```bash
-python
+python3
 ```
 
 This should put you in a python prompt that looks something like this:
@@ -57,8 +57,4 @@ a / b
 
 ## Step 5: Quit out of the REPL
 
-You can exit with CNTRL-D
-
-
-
-
+You can exit with CTRL-D
