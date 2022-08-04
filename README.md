@@ -11,8 +11,7 @@ Instructor will provide access to lab environment
 ## Notes
 
 * During this class we will use Jupyter Notebook and Vscode to write our codes.
-* Labs are designed to be executed on Ubuntu and Jupyter notebook, working on Windows might require some modifications as python works best on Linux. 
-
+* Labs are designed to be executed on Ubuntu and Jupyter notebook, working on Windows might require some modifications as python works best on Linux.
 
 ## Labs
 
@@ -24,13 +23,9 @@ Instructor will provide access to lab environment
 
 #### Hello World
 
-* [1-REPL.md](helloworld/REPL.md)
-* [2-Script.md](helloworld/1.2-Script.md)
+* [Python in shell](helloworld/REPL.md)
+* [Running with Script file](helloworld/Script.md)
 
-
-* [2-Getting-started.md](.ide/1.2-vscode-gettingstarted.md)
-* [3-debugging.md](setup/1.3-vscode-debugging.md)
-* [4-spyder.md](setup/1.4-spyder.md)
 
 2. [Notebooks](notebooks/)
 

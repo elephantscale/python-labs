@@ -1,7 +1,14 @@
-#!/usr/bin/env python3
+print("Hello world!")
 
-# This is your first python code
+a = 10
+b = 3.1
+c = "hello world"
 
-# TODO: print something out
+print(a)
+print(b)
 
-# TODO: Run this with python helloworld.py
+print("hello " + str(a))
+
+print(a + b)
+print(a * b)
+print(a / b)

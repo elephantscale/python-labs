@@ -1,29 +1,35 @@
-Lab 1.2: Script
+Running with Script
 =============
 
 ## Overview
 
 We will now run a python script from a file.
 
-## Step 1: Open up helloworld.py in your favorite text editor.
+## Step 1: Open helloworld.py in your favorite text editor.
 
-Start your favorite programmer's text editor.  This will depend on your platform:
+Start your favorite programmer's text editor. This will depend on your platform:
 
 Windows:
- * Notepad++ (don't use notepad.exe)
- * Sublime Text
+
+* pycharm **(Recommended)**
+* Notepad++ (don't use notepad.exe)
+* Sublime Text
 
 Mac:
- * Textedit (included with macos)
- * Sublime Text
+
+* pycharm **(Recommended)**
+* Textedit (included with macOS)
+* Sublime Text
 
 Linux:
- * vi/vim
- * nano
- * Sublime Text
 
-Open up helloworld.py
+* pycharm **(Recommended)**
+* Vscode (included with Lab environment)
+* vi/vim
+* nano
+* Sublime Text
 
+Create a file called `helloworld.py`  and open it with the editor of your choice.
 
 ## Step 2: Start Typing Python Code
 
@@ -39,11 +45,10 @@ c = "hello world"
 
 Save your text editor code.
 
-
 ## Step 3: Run your program from the command line
 
 ```bash
-python helloworld.py
+python3 helloworld.py
 ```
 
 Which should print out the following
@@ -65,7 +70,7 @@ print(a)
 print(b)
 ```
 
-**=> TRY re-running in order to see the results.**
+**=> TRY re-running to see the results.**
 
 Use concatenation operator as plus on strings
 
