@@ -9,7 +9,7 @@ not-using/
 *.txt
 *.gz
 *.csv
-
+*.idea
 
 
 ## python 
