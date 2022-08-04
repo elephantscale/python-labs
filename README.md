@@ -10,8 +10,8 @@ Instructor will provide access to lab environment
 
 ## Notes
 
-* During this class we will use Jupyter Notebook and Vscode to write our codes.
-* Labs are designed to be executed on Ubuntu and Jupyter notebook, working on Windows might require some modifications as python works best on Linux.
+* During this class we will use **Jupyter Notebook** and Vscode to write our codes.
+* Labs are **designed** to be executed on Ubuntu and Jupyter notebook, working on Windows might require some modifications as python works best on Linux.
 
 ## Labs
 
@@ -26,27 +26,26 @@ Instructor will provide access to lab environment
 * [Python in shell](helloworld/REPL.md)
 * [Running with Script file](helloworld/Script.md)
 
+#### Language Basics
 
-2. [Notebooks](notebooks/)
+* [Types](languageBasics/types.ipynb)
+* [Conditionals](languageBasics/conditionals.ipynb)
+* [Loops](languageBasics/loops.ipynb)
+* [Functions](languageBasics/functions.ipynb)
 
-    * [1-starting-jupyter.md](notebooks/2.1-starting-jupyter.md)
-    * [2-learning-jupyter.ipynb](notebooks/2.2-learning-jupyter.md)
-3. [Language Basics](languagebasics/)
 
-    * [1-types.ipynb](languagebasics/1-types.ipynb)
-    * [2-conditionals.ipynb](languagebasics/2-conditionals.ipynb)
-    * [3-loops.ipynb](languagebasics/3-loops.ipynb)
-    * [4-functions.ipynb](languagebasics/4-functions.ipynb)
-    * [5-string.md](languagebasics/3.5-string.md)
-    * [6-files.md](languagebasics/3.6-files.md)
-    * [7-oop.md](languagebasics/7-oop.md)
-4. [Numpy](numpy)/
 
-    * [1-numpy-intro.ipynb](numpy/1-numpy-intro.ipynb)
+* [String](languageBasics/3.5-string.md)
+* [Files](languageBasics/3.6-files.md)
+* [OOP](languageBasics/7-oop.md)
+
+4. [Numpy](archive/numpy)/
+
+    * [1-numpy-intro.ipynb](archive/numpy/1-numpy-intro.ipynb)
 5. [Pandas](pandas)/
 
-    * [1-pandas-intro.ipynb](numpy/1-pandas-intro.ipynb)
-    * [2-pandas-exploration.ipynb](numpy/2-pandas-exploration.ipynb)
+    * [1-pandas-intro.ipynb](archive/numpy/1-pandas-intro.ipynb)
+    * [2-pandas-exploration.ipynb](archive/numpy/2-pandas-exploration.ipynb)
 6. [Web](web/)
 
     * [1-setup-dev-env.ipynb](web/6.1-setup-dev-env.ipynb)
@@ -63,15 +62,15 @@ Instructor will provide access to lab environment
 11. [Notebooks](notebooks/)
 
     * [Learning Notebooks](notebooks/2.2-learning-jupyter.ipynb)
-12. [Language Basics](languagebasics/)
+12. [Language Basics](languageBasics/)
 
-    * [Types](languagebasics/3.1-types.ipynb)
-    * [Conditionals](languagebasics/3.2-conditionals.ipynb)
-    * [Loops](languagebasics/3.3-loops.ipynb)
-    * [Functions](languagebasics/3.4-functions.ipynb)
-13. [NumPy](numpy/)
+    * [Types](languageBasics/3.1-types.ipynb)
+    * [Conditionals](languageBasics/3.2-conditionals.ipynb)
+    * [Loops](languageBasics/3.3-loops.ipynb)
+    * [Functions](languageBasics/3.4-functions.ipynb)
+13. [NumPy](archive/numpy/)
 
-    * [Numpy Intro](numpy/1-numpy-intro.ipynb)
+    * [Numpy Intro](archive/numpy/1-numpy-intro.ipynb)
 14. [Stats](stats/)
 
     * [Stats Basics](stats/1-stats-basics.ipynb)
