@@ -17,22 +17,31 @@ Lunch break: 12-1 PT
 
 [Python Review](https://github.com/elephantscale/python-labs/blob/master/slides/03__PYTHON-Intro.pptx)
 
-* Labs:
+* Labs
 * https://github.com/elephantscale/python-labs/blob/master/helloworld/Script.md
 * https://github.com/elephantscale/python-labs/blob/master/helloworld/helloworld.py
 * https://github.com/elephantscale/python-labs/tree/master/setup
 * https://github.com/elephantscale/python-labs/blob/master/notebooks/starting-jupyter.ipynb
 
 [NumPy](https://github.com/elephantscale/python-labs/blob/master/slides/12__PYTHON-NumPy.pptx)
-* Labs:
+* Labs
 * https://github.com/elephantscale/python-labs/blob/master/archive/numpy/1-numpy-intro.ipynb
 
 [Stats in Python](https://github.com/fenago/Statistics-for-Data-Science-using-Python)
-* Labs:
+* Labs
 * https://github.com/elephantscale/python-labs/tree/master/stats
 
 [Visualization](https://github.com/elephantscale/python-labs/blob/master/slides/14__PYTHON-Visualization.pptx)
-* Labs:
+* Labs
 * https://github.com/elephantscale/python-labs/tree/master/visualization
+* (Alternate labs)
+* https://github.com/elephantscale/python-data-analytics/tree/main/06-visualization
+
+[Pandas](https://github.com/elephantscale/python-labs/blob/master/slides/13__PYTHON-Pandas.pptx)
+* Labs
+* https://github.com/elephantscale/python-labs/tree/master/pandas
+* (Alternate labs)
+* https://github.com/elephantscale/python-data-analytics/tree/main/05-pandas
+
 
 
