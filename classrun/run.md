@@ -30,6 +30,9 @@ Lunch break: 12-1 ET
 [NumPy](https://github.com/elephantscale/python-labs/blob/master/slides/12__PYTHON-NumPy.pptx)
 * Labs
 * https://github.com/elephantscale/python-labs/blob/master/archive/numpy/1-numpy-intro.ipynb
+* Exercises: verify complex number multiplication
+* Verify slide examples
+* [Solution](https://github.com/elephantscale/python-labs-solutions/blob/master/numpy/4.1-numpy-intro.ipynb)
 
 [Stats in Python](https://github.com/fenago/Statistics-for-Data-Science-using-Python)
 * Labs
