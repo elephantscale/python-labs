@@ -22,6 +22,7 @@ Lunch break: 12-1 ET
 * https://github.com/elephantscale/python-labs/blob/master/helloworld/Script.md
 * https://github.com/elephantscale/python-labs/blob/master/helloworld/helloworld.py
 * https://github.com/elephantscale/python-labs/tree/master/setup
+* (git clone https://github.com/elephantscale/python-labs.git) for the next lab
 * https://github.com/elephantscale/python-labs/blob/master/notebooks/starting-jupyter.ipynb
 
 [NumPy](https://github.com/elephantscale/python-labs/blob/master/slides/12__PYTHON-NumPy.pptx)
