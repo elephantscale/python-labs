@@ -16,3 +16,6 @@ Lunch break: 12-1 PT
 [About the class](https://github.com/elephantscale/python-labs/blob/master/slides/01__About-Intermediate-Python-Class.pptx)
 
 [Python Review](https://github.com/elephantscale/python-labs/blob/master/slides/03__PYTHON-Intro.pptx)
+
+Labs:
+* https://github.com/elephantscale/python-labs/blob/master/helloworld/Script.md
