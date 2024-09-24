@@ -17,5 +17,14 @@ Lunch break: 12-1 PT
 
 [Python Review](https://github.com/elephantscale/python-labs/blob/master/slides/03__PYTHON-Intro.pptx)
 
-Labs:
+* Labs:
 * https://github.com/elephantscale/python-labs/blob/master/helloworld/Script.md
+* https://github.com/elephantscale/python-labs/blob/master/helloworld/helloworld.py
+* https://github.com/elephantscale/python-labs/tree/master/setup
+* https://github.com/elephantscale/python-labs/blob/master/notebooks/starting-jupyter.ipynb
+
+[NunPy](https://github.com/elephantscale/python-labs/blob/master/slides/12__PYTHON-NumPy.pptx)
+* Labs:
+* https://github.com/elephantscale/python-labs/blob/master/archive/numpy/1-numpy-intro.ipynb
+
+
