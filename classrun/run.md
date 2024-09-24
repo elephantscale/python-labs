@@ -43,5 +43,10 @@ Lunch break: 12-1 PT
 * (Alternate labs)
 * https://github.com/elephantscale/python-data-analytics/tree/main/05-pandas
 
+[Python DB Programming](https://github.com/elephantscale/python-labs/blob/master/slides/07__PYTHON-Database.pptx)
+* Labs
+* https://github.com/elephantscale/python-labs/tree/master/database
+* (Alternative labs)
+* https://github.com/fenago/data-wrangling-python/blob/master/lab08/Activity%208.01/Activity%208.01.ipynb
 
 
