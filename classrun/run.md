@@ -11,5 +11,5 @@ Class time: 9 AM - 5 PM ET
 
 Lunch break: 12-1 PT
 
-Class folder with materials
+[Class slides](https://github.com/elephantscale/python-labs/tree/master/slides)
 
