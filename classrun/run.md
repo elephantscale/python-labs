@@ -25,6 +25,7 @@ Lunch break: 12-1 ET
 * (git clone https://github.com/elephantscale/python-labs.git) for the next lab
 * https://github.com/elephantscale/python-labs/blob/master/notebooks/starting-jupyter.ipynb
 * [notebooks/2.2-learning-jupyter.ipynb](https://github.com/elephantscale/python-labs/blob/master/notebooks/2.2-learning-jupyter.ipynb)
+* To fix jupyter pip install --upgrade notebook jupyterlab nbclassic
 
 [NumPy](https://github.com/elephantscale/python-labs/blob/master/slides/12__PYTHON-NumPy.pptx)
 * Labs
