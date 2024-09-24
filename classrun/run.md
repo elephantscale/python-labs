@@ -41,7 +41,7 @@ Lunch break: 12-1 ET
 [Visualization](https://github.com/elephantscale/python-labs/blob/master/slides/14__PYTHON-Visualization.pptx)
 * Labs
 * https://github.com/elephantscale/python-labs/tree/master/visualization
-* (Alternate labs)
+* (Alternate labs, clone https://github.com/elephantscale/python-data-analytics/)
 * https://github.com/elephantscale/python-data-analytics/tree/main/06-visualization
 
 [Pandas](https://github.com/elephantscale/python-labs/blob/master/slides/13__PYTHON-Pandas.pptx)
