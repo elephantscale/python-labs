@@ -18,6 +18,7 @@ Lunch break: 12-1 ET
 [Python Review](https://github.com/elephantscale/python-labs/blob/master/slides/03__PYTHON-Intro.pptx)
 
 * Labs
+* (You might need sudo apt install python-is-python3)
 * https://github.com/elephantscale/python-labs/blob/master/helloworld/Script.md
 * https://github.com/elephantscale/python-labs/blob/master/helloworld/helloworld.py
 * https://github.com/elephantscale/python-labs/tree/master/setup
