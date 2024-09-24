@@ -9,7 +9,7 @@ Class dates: September 24-26, 2024
 
 Class time: 9 AM - 5 PM ET
 
-Lunch break: 12-1 PT
+Lunch break: 12-1 ET
 
 [Class slides](https://github.com/elephantscale/python-labs/tree/master/slides)
 
