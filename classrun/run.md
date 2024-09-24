@@ -23,7 +23,6 @@ Lunch break: 12-1 ET
 * https://github.com/elephantscale/python-labs/blob/master/helloworld/helloworld.py
 * https://github.com/elephantscale/python-labs/tree/master/setup
 * (git clone https://github.com/elephantscale/python-labs.git) for the next lab
-* (pip install jupyter)
 * https://github.com/elephantscale/python-labs/blob/master/notebooks/starting-jupyter.ipynb
 * [notebooks/2.2-learning-jupyter.ipynb](https://github.com/elephantscale/python-labs/blob/master/notebooks/2.2-learning-jupyter.ipynb)
 
