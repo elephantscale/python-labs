@@ -23,8 +23,16 @@ Lunch break: 12-1 PT
 * https://github.com/elephantscale/python-labs/tree/master/setup
 * https://github.com/elephantscale/python-labs/blob/master/notebooks/starting-jupyter.ipynb
 
-[NunPy](https://github.com/elephantscale/python-labs/blob/master/slides/12__PYTHON-NumPy.pptx)
+[NumPy](https://github.com/elephantscale/python-labs/blob/master/slides/12__PYTHON-NumPy.pptx)
 * Labs:
 * https://github.com/elephantscale/python-labs/blob/master/archive/numpy/1-numpy-intro.ipynb
+
+[Stats in Python](https://github.com/fenago/Statistics-for-Data-Science-using-Python)
+* Labs:
+* https://github.com/elephantscale/python-labs/tree/master/stats
+
+[Visualization](https://github.com/elephantscale/python-labs/blob/master/slides/14__PYTHON-Visualization.pptx)
+* Labs:
+* https://github.com/elephantscale/python-labs/tree/master/visualization
 
 
