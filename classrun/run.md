@@ -50,6 +50,7 @@ Lunch break: 12-1 ET
 [Pandas](https://github.com/elephantscale/python-labs/blob/master/slides/13__PYTHON-Pandas.pptx)
 * Labs
 * https://github.com/elephantscale/python-labs/tree/master/pandas
+* Do labs 1 and 2, but stop at join
 * (Alternate labs)
 * https://github.com/elephantscale/python-data-analytics/tree/main/05-pandas
 * (More)
