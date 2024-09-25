@@ -37,7 +37,7 @@ Lunch break: 12-1 ET
 [Stats in Python](https://github.com/fenago/Statistics-for-Data-Science-using-Python)
 * Labs
 * https://github.com/elephantscale/python-labs/tree/master/stats
-  * Lab 1, 2, 3, 4
+  * Lab 1, 2, 3, 4, 5, and maybe 6
 
 [Visualization](https://github.com/elephantscale/python-labs/blob/master/slides/14__PYTHON-Visualization.pptx)
 * Labs
