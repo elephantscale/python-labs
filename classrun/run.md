@@ -67,4 +67,13 @@ Lunch break: 12-1 ET
 * https://github.com/elephantscale/python-labs/tree/master/packaging/basic-module
 * https://github.com/elephantscale/python-labs/tree/master/packaging/docker
 
+[Writing C modules](https://github.com/elephantscale/python-labs/blob/master/slides/23__PYTHON-C.pptx)
+* Labs
+
+Best practices, future
+[Learning AI Python](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/1/introduction)
+[ES Repo](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/1/introduction)
+[Webinar](https://bit.ly/3uDtoEu)
+[Learning path](https://docs.google.com/spreadsheets/d/1KUsKdwNMJhtVQDvdS8X76Y2HozfBem3aSyhWsVHpqpI/edit?gid=0#gid=0)
+
 
