@@ -72,7 +72,7 @@ Lunch break: 12-1 ET
 * https://github.com/elephantscale/python-labs/tree/master/packaging/docker
 
 [Writing C modules](https://github.com/elephantscale/python-labs/blob/master/slides/23__PYTHON-C.pptx)
-* Labs
+* No lab, description only
 
 Best practices, future
 * [Learning AI Python](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/1/introduction)
