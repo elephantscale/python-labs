@@ -55,8 +55,6 @@ Lunch break: 12-1 ET
 * https://github.com/elephantscale/python-data-analytics/tree/main/05-pandas
 * (More)
 * https://github.com/elephantscale/python-data-analytics/tree/main/07-data-wrangling
-* (And more)
-* https://github.com/elephantscale/python-data-analytics/tree/main/08-exploration
 
 [Python DB Programming](https://github.com/elephantscale/python-labs/blob/master/slides/07__PYTHON-Database.pptx)
 * Labs
