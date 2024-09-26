@@ -13,9 +13,9 @@ Some of the labs here are jupyter notebooks. To start them, type in the followin
 ```
 
 
-This will open a browser window allowing you to open the notebooks. 
+This will open a browser window, allowing you to open the notebooks. 
 
 
 ### Labs
 
-    * [databases.ipynb](databases.ipynb)
+[databases.ipynb](databases.ipynb)
