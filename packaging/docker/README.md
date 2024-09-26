@@ -28,11 +28,17 @@ EXPOSE 5000
 CMD ["python", "/usr/src/app/app.py"]
 ```
 
-Note what we're going to do.  We are going to start with ubuntu.
+Note what we're going to do.  We are going to start with Ubuntu.
+
+```bash
+# You might have to install Docker
+sudo snap install docker
+sudo snap start docker
+```
 
 ```bash
 cd myfirstapp
-docker build -t myfirstapp
+docker build -t myfirstapp .
 ```
 
 You will get a very long output, which will be Docker loading all of your
