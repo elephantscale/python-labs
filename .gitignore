@@ -18,3 +18,4 @@ not-using/
 *.db
 
 .virtual_documents/
+.cache/
