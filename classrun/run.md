@@ -65,8 +65,6 @@ Lunch break: 12-1 ET
 [Python web programming, Flask](https://github.com/elephantscale/python-labs/blob/master/slides/09__PYTHON-Web.pptx)
 * Labs
 * https://github.com/elephantscale/python-labs/tree/master/web
-* https://github.com/farshidmh/Python-DS-ML-VS/tree/main/python-intro/web
-* https://github.com/farshidmh/Python-DS-ML-VS/tree/main/machine-learning/music_predict
 
 [Python packages and container](https://github.com/elephantscale/python-labs/blob/master/slides/05__PYTHON-Packages.pptx)
 * Labs
