@@ -15,5 +15,6 @@ not-using/
 ## python 
 .ipynb_checkpoints
 *.pyc
+*.db
 
 .virtual_documents/
