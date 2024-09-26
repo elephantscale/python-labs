@@ -61,8 +61,6 @@ Lunch break: 12-1 ET
 [Python DB Programming](https://github.com/elephantscale/python-labs/blob/master/slides/07__PYTHON-Database.pptx)
 * Labs
 * https://github.com/elephantscale/python-labs/tree/master/database
-* (Alternative labs)
-* https://github.com/fenago/data-wrangling-python/blob/master/lab08/Activity%208.01/Activity%208.01.ipynb
 
 [Python web programming, Flask](https://github.com/elephantscale/python-labs/blob/master/slides/09__PYTHON-Web.pptx)
 * Labs
