@@ -48,7 +48,7 @@ It works!  Pop champagne!
 
 ## Step 3: Alter path
 
-What happens if our python module needs to be invoked from somewhere else?
+What happens if our Python module needs to be invoked from somewhere else?
 
 First, let's get our present working directory (PWD). On Linux/Mac, you can type the following:
 
@@ -78,10 +78,10 @@ Now we are in a different directory.so we need to add this to the path.
 
 ```python
 import sys
-sys.append.path('PUT YOUR PRESENT WORKING DIRECTORY HERE')
+sys.path.append('PUT YOUR PRESENT WORKING DIRECTORY HERE')
 ```
 
-Now you should be able to do the following:
+Now, you should be able to do the following:
 
 ```pycon
 >>> import primes
